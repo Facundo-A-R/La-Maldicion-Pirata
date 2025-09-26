@@ -15,7 +15,7 @@ Nuestra misión será escapar sanos y salvos con el tesoro evitando que la tripu
 ## 🚀 Características
 
 - Movimiento lateral del jugador.
-- Sistema de vida.
+- Sistema de vida con barra.
 - Música de fondo y efectos de sonido.
 - Pantalla de inicio con instrucciones.
 - Sistema de puntaje.
@@ -24,10 +24,9 @@ Nuestra misión será escapar sanos y salvos con el tesoro evitando que la tripu
 
 ## 🎮 Controles
 
-- ⬅️ / ➡️ — Mover al pirata izquierda/derecha  
+- ⬅️ / ➡️ — Mover la nave izquierda/derecha  
 - Barra espaciadora — Espadazo  
-- Enter — Comenzar el juego desde la pantalla inicial
-- F11 / Alt + Enter — Alternar entre modo ventana y pantalla completa
+- Enter — Comenzar el juego desde la pantalla inicial  
 
 ---
 
@@ -45,7 +44,6 @@ pip install pygame
 | :---: | :---: | :---: | :---: | :---: |
 
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/1afd8a49-2d79-45b1-85e3-c3092bb456fc" />
-
 
 
 
